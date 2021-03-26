@@ -1,7 +1,6 @@
-## Friday Night Moddin' on Browser ##
+## Friday Night Moddin' on Browser | Girlfriend Mode Attempt (NoLime) ##
 
-Go to [This link](https://hdboye.github.io/FnfModAttempt) (or is.gd/mikufnf) to access the mods
+Please go to [this link](https://hdboye.github.io/FnfModAttempt) (or is.gd/mikufnf) to access hdboye's ported online mods!
 
-Currently on Friday Night Funkin' version: v0.2.7.1
+Currently on Friday Night Funkin' version: v0.2.7.1!
 
-(I will update the mods every time there is a new update. DM me on Discord (hd#0785) if i haven't updated a mod in 24 hours.)
